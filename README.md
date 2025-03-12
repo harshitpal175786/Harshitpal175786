@@ -46,7 +46,7 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 [![Linkedin: Harshit Pal](https://img.shields.io/badge/-Harshitpal01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/harshitpal01/)
 <a href="https://www.instagram.com/harshitpal_01/" target="_blank"><img src="https://img.shields.io/badge/@harshitpal_01-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Twitter: Harshit Pal](https://img.shields.io/twitter/follow/Harshit175786?style=social)](https://x.com/Harshit175786)
-[![GitHub: Harshit Pal](https://img.shields.io/github/followers/Harshitpal175786?label=Mohitp98&style=social)](https://github.com/harshitpal175786)
+[![GitHub: Harshit Pal](https://img.shields.io/github/followers/Harshitpal175786?label=Harshitpal175786&style=social)](https://github.com/harshitpal175786)
 
 <div align="center">
 
